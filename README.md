@@ -18,4 +18,4 @@ Information Security Engineer | Web Application Security | Bug Bounty Hunter | N
 <br />
 <a href="https://twitter.com/Ragab_Sobhy48"><img src="tweeter logo.png" alt="tweeter_logo" style="width:100px"></a>
 <br />
-<a href=" www.linkedin.com/in/ragab-sobhy"><img src="linkedin-logo.png" alt="linkedin_logo" style="width:200px;height: 40px;"></a>
+<a href="https://www.linkedin.com/in/ragab-sobhy/"><img src="linkedin-logo.png" alt="linkedin_logo" style="width:200px;height: 40px;"></a>
