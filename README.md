@@ -14,4 +14,4 @@ Information Security Engineer | Web Application Security | Bug Bounty Hunter | N
 📚 I'm currently learning all about IT and Security.
 
 # Social Networks
-![SocialNetworks](https://www.canva.com/design/DAFSaqTXeSU/view)
+<img src="hackers.gif">
