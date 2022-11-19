@@ -1,5 +1,4 @@
 # Hi there 👋
-<hr />
 ## I'am Ragab Sobhy
 Information Security Engineer | Web Application Security | Bug Bounty Hunter | Network Penetest | Hacking is NOT a Crime Advocate.
 
