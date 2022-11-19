@@ -14,9 +14,4 @@ Information Security Engineer | Web Application Security | Bug Bounty Hunter | N
 📚 I'm currently learning all about IT and Security.
 
 # Social Networks
-<hr />
-[![GitHub](github.png)](https://github.com/Cyber-Exp-EG)
-
-[![Linkedin](linkedin.png)](www.linkedin.com/in/ragab-sobhy)
-
-[![Tweeter](twitter.png)](https://twitter.com/Ragab_Sobhy48)
+![SocialNetworks](https://www.canva.com/design/DAFSaqTXeSU/view)
