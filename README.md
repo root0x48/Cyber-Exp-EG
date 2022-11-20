@@ -1,6 +1,6 @@
 # Hi there 👋
 ## I'am Ragab Sobhy
-Information Security Engineer | Red Team Opreators | Web Application Security | Bug Bounty Hunter | Network Penetest | Hacking is NOT a Crime defense.
+Information Security Engineer | Red Team Opreators | Web Application Security | Bug Bounty Hunter | Network Penetest | Hacking is NOT a Crime Defenders.
 
 ### Security+, eJTP and OSCP (self learing).
 <br />
